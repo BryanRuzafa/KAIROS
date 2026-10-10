@@ -2,6 +2,18 @@
 
 ---
 
+> ### 📌 En resumen (ES)
+> **KAIROS** es una plataforma para el **Programa ENGINY del Consorci d'Educació de Barcelona**, que conecta centros educativos con talleres vocacionales para reducir el abandono escolar. Cubre todo el ciclo: solicitud de talleres, asignación de plazas, calendarización y feedback. Proyecto de DAW en equipo de 4 con **Scrum** (Taiga) y diseño previo en Figma.
+>
+> **Mi parte — [Bryan Ruzafa](https://bryanrg.dev):**
+> - Configuración del **catálogo de talleres** y su **CRUD completo**, de la base de datos a la interfaz.
+> - **Sistema de asignación** de talleres a centros: lógica en la API PHP e interfaz en Vue.
+> - Frontend de la **página de inicio** y del **módulo de feedback** del alumnado.
+>
+> **Stack:** Vue 3 · Pinia · PHP 8.1 (MVC propio con PDO) · MySQL 8 · Docker · Nginx
+
+---
+
 ## ℹ️ Informació del Projecte
 
 - **Nom del Projecte**: KAIROS
@@ -9,7 +21,7 @@
 - **Petita descripció**: Plataforma integral per a la gestió del Programa ENGINY, connectant centres educatius amb tallers vocacionals. Gestiona tot el cicle: sol·licitud, assignació algorítmica, calendarització en temps real i feedback amb anàlisi de dades.
 - **Adreça del gestor de tasques (Taiga)**: [Veure Projecte](https://tree.taiga.io/project/aaronsoripon8-tr2-grup-6/timeline)
 - **Adreça del prototip gràfic (Figma)**: [Veure Disseny](https://www.figma.com/design/LSPXnmGoXrr2HUM5ZoOwGL/Untitled?node-id=7-2&t=sbQe0aoMzm88K78h-1)
-- **URL de producció**: [kairos.daw.inspedralbes.cat](http://kairos.daw.inspedralbes.cat)
+- **URL de producció**: kairos.daw.inspedralbes.cat (desplegament del curs, actualment fora de línia)
 - **Estat**: 🟢 **Acabat** (Versió 2.0.0). El sistema està completament operatiu amb totes les funcionalitats principals implementades: algorisme d'assignació, reserves en temps real, sistema de feedback premium i tauler d'administració.
 
 ### 🔗 Altres Enllaços
