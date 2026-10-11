@@ -12,7 +12,7 @@
 >
 > **Stack:** Vue 3 · Pinia · PHP 8.1 (MVC propio con PDO) · MySQL 8 · Docker · Nginx
 >
-> 🔗 **Repositorio original del equipo, con el historial completo de commits:** [inspedralbes/tr2-reptes-tr2-grup6](https://github.com/inspedralbes/tr2-reptes-tr2-grup6) · [mis commits](https://github.com/inspedralbes/tr2-reptes-tr2-grup6/commits?author=BryanRuzafaGon) (cuenta del instituto `BryanRuzafaGon`).
+> 🔗 **Repositorio original del equipo, con el historial completo de commits:** [inspedralbes/tr2-reptes-tr2-grup6](https://github.com/inspedralbes/tr2-reptes-tr2-grup6).
 > Este repositorio es una copia para mi portfolio.
 
 ---
